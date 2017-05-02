@@ -1,0 +1,127 @@
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe.config
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.pdb
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.csprojResolveAssemblyReference.cache
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.ChangePassword.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Login.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Logs.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MainMenu.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Properties.Resources.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Starting.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.csproj.GenerateResource.Cache
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.exe
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.pdb
+C:\Users\Shahidul Islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Supplier.resources
+C:\Users\Shahidul Islam\documents\visual studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.User_Registration.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\ChuiJhalManagement.mdf
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\ChuiJhalManagement_log.ldf
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuPrice.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuCategory.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuStock.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuStockRecord.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuPrice_Record.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Menu_Sub_Category.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.CustomerBilling.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.CustomerBillingRecord.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Customer_Entry.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Customer_Entry_Record.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.SupplierRecord.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe.config
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.exe
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.pdb
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\ChuiJhalManagement.mdf
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\ChuiJhalManagement_log.ldf
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.pdb
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.csprojResolveAssemblyReference.cache
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.ChangePassword.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Login.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Logs.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MainMenu.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuPrice.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuCategory.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuStock.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuStockRecord.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuPrice_Record.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Menu_Sub_Category.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Properties.Resources.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Starting.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.CustomerBilling.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.CustomerBillingRecord.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Customer_Entry.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Customer_Entry_Record.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Supplier.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.SupplierRecord.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.User_Registration.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.csproj.GenerateResource.Cache
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe.manifest
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.application
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.exe.manifest
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Softower Engineering nad information System Project-3204\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.application
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe.config
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.exe
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.pdb
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\ChuiJhalManagement.mdf
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\ChuiJhalManagement_log.ldf
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe.manifest
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.application
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.pdb
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.csprojResolveAssemblyReference.cache
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.ChangePassword.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Login.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Logs.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MainMenu.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuPrice.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuCategory.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuStock.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuStockRecord.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuPrice_Record.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Menu_Sub_Category.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Properties.Resources.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Starting.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.CustomerBilling.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.CustomerBillingRecord.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Customer_Entry.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Customer_Entry_Record.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Supplier.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.SupplierRecord.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.User_Registration.resources
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.csproj.GenerateResource.Cache
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.exe.manifest
+C:\Users\Shahidul Islam\Desktop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.application
+C:\Users\Shahidul Islam\Desktop\Dextop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe.config
+C:\Users\Shahidul Islam\Desktop\Dextop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.exe
+C:\Users\Shahidul Islam\Desktop\Dextop\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.pdb
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe.config
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.exe
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.pdb
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\ChuiJhalManagement.mdf
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\ChuiJhalManagement_log.ldf
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe.manifest
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.application
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.exe
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\bin\Debug\Cui Jall Restraurent  Management.pdb
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.csprojResolveAssemblyReference.cache
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.ChangePassword.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Login.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MainMenu.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuPrice.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuCategory.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuStock.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuStockRecord.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.MenuPrice_Record.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Menu_Sub_Category.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Properties.Resources.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Starting.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.CustomerBilling.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.CustomerBillingRecord.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Customer_Entry.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Customer_Entry_Record.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.Supplier.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.SupplierRecord.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui_Jall_Restraurent__Management.User_Registration.resources
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.csproj.GenerateResource.Cache
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.exe.manifest
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.application
+F:\Temporal Project Place\Cui Jall Restraurent  Management\Cui Jall Restraurent  Management\obj\Debug\Cui Jall Restraurent  Management.TrustInfo.xml

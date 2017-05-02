@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4AD0316B-6B6A-4396-87CB-2FC8FDF88B73}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cui_Jall_Restraurent__Management</RootNamespace>
+    <AssemblyName>Cui Jall Restraurent  Management</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\chuijhal\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Chui Chal Restaurant Management System</ProductName>
+    <PublisherName>Md. Shahidul Islam</PublisherName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9F52B280742DE152B34446A74D66700940EFC2EB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Cui Jall Restraurent  Management_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\Desktop\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsFunc.cs" />
+    <Compile Include="CommonClasses.cs" />
+    <Compile Include="ConnectionString.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrice.designer.cs">
+      <DependentUpon>MenuPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCategory.designer.cs">
+      <DependentUpon>MenuCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuStock.designer.cs">
+      <DependentUpon>MenuStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuStockRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuStockRecord.designer.cs">
+      <DependentUpon>MenuStockRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrice_Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrice_Record.designer.cs">
+      <DependentUpon>MenuPrice_Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Sub_Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Sub_Category.designer.cs">
+      <DependentUpon>Menu_Sub_Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Starting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Starting.designer.cs">
+      <DependentUpon>Starting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerBilling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerBilling.designer.cs">
+      <DependentUpon>CustomerBilling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerBillingRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerBillingRecord.designer.cs">
+      <DependentUpon>CustomerBillingRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Entry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Entry.designer.cs">
+      <DependentUpon>Customer_Entry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Entry_Record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Entry_Record.designer.cs">
+      <DependentUpon>Customer_Entry_Record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier.designer.cs">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierRecord.designer.cs">
+      <DependentUpon>SupplierRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Registration.designer.cs">
+      <DependentUpon>User_Registration.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrice.resx">
+      <DependentUpon>MenuPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCategory.resx">
+      <DependentUpon>MenuCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuStock.resx">
+      <DependentUpon>MenuStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuStockRecord.resx">
+      <DependentUpon>MenuStockRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrice_Record.resx">
+      <DependentUpon>MenuPrice_Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Sub_Category.resx">
+      <DependentUpon>Menu_Sub_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Starting.resx">
+      <DependentUpon>Starting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerBilling.resx">
+      <DependentUpon>CustomerBilling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerBillingRecord.resx">
+      <DependentUpon>CustomerBillingRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Entry.resx">
+      <DependentUpon>Customer_Entry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Entry_Record.resx">
+      <DependentUpon>Customer_Entry_Record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier.resx">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierRecord.resx">
+      <DependentUpon>SupplierRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Registration.resx">
+      <DependentUpon>User_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="blank_face.jpg" />
+    <None Include="blank_image.jpg" />
+    <Content Include="ChuiJhalManagement.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ChuiJhalManagement_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>ChuiJhalManagement.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.Express.11.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2012 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
